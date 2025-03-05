@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>js Id Seçici Uygulaması</title>
+    
+</head>
+<body>
+    <h1 id="baslik">Meslek Dersleri</h1>
+    <div id="icerik"></div>
+    <p id="paragraf"></p>
+    <form>
+        <input type="text" id="AdSoyad" size="50">
+    </form>
+
+    <script type="text/javascript">
+        document.getElementById("baslik").style.fontSize="52px";
+        document.getElementById("icerik").innerHTML="<b>Web-Grafik-Mobil</b>";
+        document.getElementById("paragraf").innerText="Merhaba 11-C Web Tasarımı Dersi Js konusuna geçtik";
+        document.getElementById("AdSoyad").value="Lütfen Ad ve soyadınızı giriniz!";        
+    </script>
+</body>
+</html>

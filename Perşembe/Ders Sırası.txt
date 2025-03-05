@@ -1,0 +1,13 @@
+1- 2. slayt anlat ( u3 yap ve u4 yaptır)
+2- U5 yaptır.
+3- Modül Etiket seçiciyi anlat (sf 169)
+4- Slayt 3 anlat
+5- U6 yap(Değişken tanımlama ve yazdırma)
+6- U7 yaptır.
+7- U9 yap
+8- U10 Yaptır.
+9- Slayt 4 anlat.
+10- Slayt 5 anlat.
+11- U11 yap
+12- U12 yaptır.
+

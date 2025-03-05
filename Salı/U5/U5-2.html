@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>js Class Seçici Uygulaması</title>
+    
+</head>
+<body>
+    <span class="harfler">P</span>
+    R
+    <span class="harfler">O</span>
+    G
+    <span class="harfler">R</span>
+    A
+    <span class="harfler">m</span>
+    L
+    <span class="harfler">A</span>
+    M
+    <span class="harfler">A</span>
+
+    <script>
+        for(var i=0;i<6;i++){
+            document.getElementsByClassName("harfler")[i].style.fontSize="24px";
+            document.getElementsByClassName("harfler")[i].style.color="Red";
+        }       
+    </script>
+    
+</body>
+</html>

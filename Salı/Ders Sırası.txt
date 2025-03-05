@@ -1,0 +1,13 @@
+1-Slayt1 Anlat
+2- U1 Yap
+3- U2 Yaptır.
+4- Slayt2 Anlat
+5- u3 yap
+6- U4 yaptır.
+7- Class Seçici(2. slayt anlat)
+8- Class secici uygulama yap
+9- U5 yaptır.
+10- Modül Etiket seçiciyi anlat (sf 169)
+11- Slayt 3 anlat
+12- U6 yap
+13- U7 yaptır.
